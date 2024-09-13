@@ -1,6 +1,5 @@
 # Image-Processing-Projects
 
-# Image Processing Projects
 
 ## Overview
 This repository contains four projects focused on different aspects of image processing, including character isolation, contrast correction, noise reduction, edge detection, and Fourier transform. Each project applies various techniques to manipulate and enhance images. The repository is designed to help users explore key concepts in image processing through Python-based implementations.
